@@ -244,7 +244,7 @@ input,textarea,select {
 
 <script>
 // GANTI DENGAN NOMOR WHATSAPP TOKO KAMU
-const WHATSAPP = "6281234567890";
+const WHATSAPP = "6283109242989";
 
 const products = [
  {id:1,name:"Ayam Geprek Original",category:"Paket",price:15000,
